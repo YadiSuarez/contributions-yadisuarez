@@ -1,0 +1,21 @@
+[submodule "CarSPACE"]
+	path = CarSPACE
+	url = https://github.com/m-alvaradox/CarSPACE
+[submodule "APolitor"]
+	path = APolitor
+	url = https://github.com/m-alvaradox/APolitor
+[submodule "MotorPlanDB"]
+	path = MotorPlanDB
+	url = https://github.com/AndresSalazar19/MotorPlanDB
+[submodule "ProyectoMatDis"]
+	path = ProyectoMatDis
+	url = https://github.com/AndresSalazar19/ProyectoMatDis
+[submodule "POO-P3-G03"]
+	path = POO-P3-G03
+	url = https://github.com/StevenBarzola/POO-P3-G03
+[submodule "landing"]
+	path = landing
+	url = https://github.com/AndresSalazar19/landing
+[submodule "snake-mips"]
+	path = snake-mips
+	url = https://github.com/AndresSalazar19/snake-mips
